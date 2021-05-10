@@ -1,8 +1,9 @@
-O que eu vou aprender na Trybe
+O que eu vou aprender na Trybe:
+
 - Unix
 - Bash
-- JavaScript
-Git
-GitHUb
-React
-NodeJS
+- Git
+- HTML
+- CSS
+- React
+- NodeJS
